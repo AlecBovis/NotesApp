@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="login_user">Ingrese usuario</string>
+    <string name="login_password">Ingrese contraseña</string>
+    <string name="login_ingresar">Ingresar</string>
+    <string name="login_registrar">Registrar</string>
+    <string name="register_ingrese_su_usuario">Nombre de Usuario</string>
+    <string name="register_ingrese_su_nombre">Nombres Completo</string>
+    <string name="register_ingrese_su_email">Correo Electronico</string>
+    <string name="register_ingrese_su_contraseña">Contraseña</string>
+    <string name="register_registrar">Registrar</string>
+    <string name="registernote_asunto">Titulo</string>
+    <string name="registernote_content">Contenido</string>
+</resources>
